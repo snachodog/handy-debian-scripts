@@ -33,7 +33,7 @@ A script to fix IP address-related issues. Specifically resolves Docker not bein
 
 ### `update_yacreader_library.sh`
 
-A script to update the YACReader library.
+A script to update the YACReader-server library from within the Docker Container. Run this when you add new comics to your Yacreader-server folder and then you'll be able to read your comics. Can take a while if you're adding a lot or large documents.
 
 ## License
 
